@@ -1,2 +1,1 @@
-# Simple-TF
-Basic Terraform script. 
+# First_terraform
